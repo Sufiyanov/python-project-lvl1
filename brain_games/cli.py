@@ -4,6 +4,3 @@ import prompt
 def welcome_user():
     name = prompt.string('May I have your name? ')
     print('Hello, {0}!'.format(name))
-
-def cool():
-    return 0    
