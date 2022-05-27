@@ -9,7 +9,7 @@ def run_game(game_name):
     print('Hello, {0}!'.format(name))
     print(game_name.question)
     game_round = 0
-    while round < max_round:
+    while game_round < max_round:
         number, answer = game_name.make_answer()
         print('Question:', number)
         user_answer = prompt.string('Your answer: ')
