@@ -490,7 +490,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "370df53fdb365953b7fdd51d813e661dc050a1efbb0625fb22e137fe06c4df33"
+content-hash = "1f4846aa840c669589df7aa1ce07e9afdd60ceed4e26e4d57848dd564ad64645"
 
 [metadata.files]
 astor = [
