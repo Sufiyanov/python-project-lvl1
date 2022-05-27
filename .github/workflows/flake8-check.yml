@@ -24,6 +24,6 @@ jobs:
       - name: install
         run: make install
       - name: rights
-        run: chmod +x ./brain_games/scripts/brain_games.py
+        run: chmod +x ./brain_games/scripts/*.py
       - name: lint
         run: make lint
