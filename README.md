@@ -5,7 +5,5 @@
 ### flake8
 [![flake8](https://github.com/Sufiyanov/python-project-lvl1/workflows/flake8-check/badge.svg)](https://github.com/Sufiyanov/python-project-lvl1/actions)
 
-### acsiinema
-
-
-[![Watch the video]](https://asciinema.org/a/Fveh7I2XB9bk7kERFkv2VqQzG)
+### Игра: "Проверка на чётность"
+[![asciicast](https://asciinema.org/a/Fveh7I2XB9bk7kERFkv2VqQzG.png)](https://asciinema.org/a/Fveh7I2XB9bk7kERFkv2VqQzG)
