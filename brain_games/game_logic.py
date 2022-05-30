@@ -17,7 +17,8 @@ def run_game(game_name):
             print('Correct!')
             game_round += 1
         else:
-            print("'{0}' is wrong answer ;(. Correct answer was '{1}'.".format(user_answer, correct_answer))
+            print(f"'{user_answer}' is wrong answer ;(. "
+                  f"Correct answer was '{correct_answer}'.")
             break
     if game_round == max_round:
         print('Congratulations, {0}!'.format(name))
