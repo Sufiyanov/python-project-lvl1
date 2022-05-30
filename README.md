@@ -5,5 +5,17 @@
 ### flake8
 [![flake8](https://github.com/Sufiyanov/python-project-lvl1/workflows/flake8-check/badge.svg)](https://github.com/Sufiyanov/python-project-lvl1/actions)
 
-### Игра: "Проверка на чётность"
-[![asciicast](https://asciinema.org/a/Fveh7I2XB9bk7kERFkv2VqQzG.png)](https://asciinema.org/a/Fveh7I2XB9bk7kERFkv2VqQzG)
+### Игра: "Проверка на чётность" (установка игры)
+[![asciicast](https://asciinema.org/a/1M2fa6NBYQ2At48v7ngMzlsZi.png)](https://asciinema.org/a/1M2fa6NBYQ2At48v7ngMzlsZi)
+
+### Игра: "Калькулятор"
+[![asciicast](https://asciinema.org/a/9LiG3CBARWVRV4UyDAGqiWVJJ.png)](https://asciinema.org/a/9LiG3CBARWVRV4UyDAGqiWVJJ)
+
+### Игра: "НОД"
+[![asciicast](https://asciinema.org/a/1eEKYlS9joQAfg2aoo60FObVz.png)](https://asciinema.org/a/1eEKYlS9joQAfg2aoo60FObVz)
+
+### Игра: "Арифметическая прогрессия"
+[![asciicast](https://asciinema.org/a/PCTVXHKFHT9Y5hde39qHfvWXX.png)](https://asciinema.org/a/PCTVXHKFHT9Y5hde39qHfvWXX)
+
+### Игра: "Простое ли число?"
+[![asciicast](https://asciinema.org/a/pouLxZdvtqlQ7tXt2N2IJomVN.png)](https://asciinema.org/a/pouLxZdvtqlQ7tXt2N2IJomVN)

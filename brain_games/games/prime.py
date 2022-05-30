@@ -9,7 +9,7 @@ def make_answer():
     for i in range(1, number + 1):
         if number % i == 0:
             divider.append(i)
-    if divider == 2:
+    if len(divider) == 2:
         answer = 'yes'
     else:
         answer = 'no'
